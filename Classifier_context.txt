@@ -43,11 +43,15 @@ TRACKPILOT (Autonoom varen)
 - Vragen over veiligheid of noodprocedures bij autonoom varen
 - Sensoren of hardware die nodig is voor Trackpilot
 
+PRICES
+- De prijzen in euro van onze producten
+- Vragen over welke kaartzones er zijn en wat we aanbieden
+
 OTHER
 - Vragen die niet duidelijk bij één van bovenstaande categorieën passen
 - Algemene vragen over Tresco als bedrijf
 - Vragen over kaarten, kaartupdates, of kaartlicenties
-- Facturatie, prijzen, of commerciële vragen
+- Facturatie of commerciële vragen
 - Hardwareverkoop (GPS-kompas, PC, schermen)
 - Radarlink of radarbeeldweergave
 - Fleet (vlootbeheer via webportaal)
