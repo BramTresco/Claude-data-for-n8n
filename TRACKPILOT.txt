@@ -517,6 +517,9 @@ Intention sharing werkt niet. Voorspelling andere TrackPilot gebruikers. Intenti
 Om de Tresco intention sharing aan of uit te zetten gaat u bovenaan in de knoppenbalk naar Scherm en klikt u op het icoontje van de grijze bocht.
 U kan enkel intentielijnen zien van schepen die actief met de Tresco TrackPilot varen, die dicht in de buurt komen én die hun intenties delen.
 
+Er is een bug in de laatste update waardoor het stuurwacht alarm niet aanvaard kan worden. We lossen het zo snel mogelijk op.
+Momenteel kan je het alarm enkel uitschakelen door de TTP uit te schakelen. Je kan het alarm nog steeds wel vermijden door naa de waarschuwing de muis of het
+toetsenbord te gebruiken.
 
 
 
