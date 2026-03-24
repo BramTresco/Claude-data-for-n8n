@@ -46,11 +46,11 @@ TRACKPILOT (Autonoom varen)
 PRICES
 - De prijzen in euro van onze producten
 - Vragen over welke kaartzones er zijn en wat we aanbieden
+- De klant wil een kaart kopen
 
 OTHER
 - Vragen die niet duidelijk bij één van bovenstaande categorieën passen
 - Algemene vragen over Tresco als bedrijf
-- Vragen over kaarten, kaartupdates, of kaartlicenties
 - Facturatie of commerciële vragen
 - Hardwareverkoop (GPS-kompas, PC, schermen)
 - Radarlink of radarbeeldweergave
