@@ -16,63 +16,77 @@ Een GPS kompas, AIS en PC. Als de klant hier interesse in toont, escaleer dan na
 We bieden natuurlijk ook kaarten aan. Om een kaart te bestellen moet de klant ons even opbellen en dan activeren wij de gevraagde kaartzone op hun licentie. De verschillende  kaartzones kunnen klanten vinden op onze website via https://www.tresco.eu/kaarten/kaartenlijst/ 
 We maken ook expertises van aanvaringen of andere verzekeringskwesties. We maken dan een video van de NMEA data op het moment van de aanvaring, waardoor je exact kan zien wat er op dat moment gebeurde. Hiervoor moeten we even met TeamViewer inloggen aan boord om de data uit het logboek te kopieren. 
 
-Op woensdagmiddag gaat Ken frietjes halen hij vertrekt meestal op tijd rond 11:30 en op vrijdag laten we meestal pizza of Burger King leveren.
+Op woensdagmiddag gaat Ken frietjes halen hij vertrekt meestal op tijd rond 11:30 en op vrijdag laten we meestal pizza, kebab of Burger King leveren.
 
 Voorbeelden van vragen/opmerkingen van klanten met informatie om te antwoorden:
 
 Als ik tresco opstart krijg ik een pop-up met : demoperiode is voorbij.
 Als we een 'sofware dongle' maken is deze maar tijdelijk bruikbaar, meestal 30 dagen. Deze moet manueel worden verwijderd als de klant de fysieke dongle heeft ontvangen.
 De klant kan dit zelf oplossen door in de C-schijf naar Navichart/S57 te gaan en daar de 'DongleData.bin' file te verwijderen. Als dat niet lukt: laat ze een TeamViewer ID en wachtwoord doorsturen of contacteer ons op +32 (0)32 31 07 31.
+
 Fout op de kaart. Tonnen of boeien verlegd. Brug is verkeerd. Kaart moet aangepast worden.
 Het is erg belangrijk dat duidelijk wordt beschreven waar het is, en wat er fout is.
 Liefst met een screenshot van de fout in bijlage. Oriënteer de kaart naar het noorden in deze screenshot er kan ook best een plaatsnaam te zien zijn en het kompas linksboven.
+
 GPS storing. Schip ligt scheef. Voorligging is fout. Waarom vaar ik schuin? Kompas is kapot. GPS werkt niet. Heading klopt niet.
 Heeft het voordien wel gewerkt? Of is het een nieuwe installatie?
 Bij een nieuwe installatie moet men Tresco contacteren om de instellingen te overlopen.
 De eerste stap is altijd de GPS of het elektronisch kompas te resetten: haal 10-20 seconden de stroom er af. Probeer ook de computer opnieuw op te starten.
-Las er maar een kleine afwijking is van de voorligging kan deze manueel worden aangepast. Ga rechtsboven naar Instellingen > Systeem (wachtwoord = 0000) > NMEA en verander dan de oplijning van het kompas of de tweede positie.
+Als er maar een kleine afwijking is van de voorligging kan deze manueel worden aangepast. Ga rechtsboven naar Instellingen > Systeem (wachtwoord = 0000) > NMEA en verander dan de oplijning van het kompas of de tweede positie.
 Werkt het nog steeds niet? Dan pas contact opnemen met Tresco.
+
 Hoe kan ik Covadem activeren? Waarom zie werkt Covadem niet? Waterdiepte werkt niet. De kaart toont geen blauwe diepteverschillen.
 Als de klant nog geen contract heeft bij Covadem moet hij eerst met hen contact opnemen. Daarna geeft Covadem dit aan ons door en kunnen wij het in de licentie aanpassen.
 Als de klant wel al een contract heeft maar de Covadem nog niet werkt in de kaart zijn er meestal 2 mogelijke redenen:
 Ga bovenaan in de knoppenbalk naar het tabje 'Scherm' en zorg ervoor dat 'Bathymetrische datalaag in-/ uitschakelen' aan staat.
 Update ook de kaarten naar de laatste versie bovenaan rechts bij Help > Controleer op updates.
 https://www.youtube.com/watch?v=7vMB9tmwuyI - In deze video wordt getoond hoe je Covadem dieptedata in Tresco Navigis kan gebruiken.
+
 Hoe kan ik de raster- of gridlijnen van de kaart uitschakelen in Tresco? Hoe gridlijnen aanzetten en aanpassen?
 Om gridlijnen te tonen in Tresco Navigis ga je rechtsboven naar Instellingen > Scherm. Hier kan je 'Toon grid' aanvinken om de gridlijnen te activeren.
+
 Hoe kan ik mijn Co2 emissie uit Tresco halen? Hoe Fleet rapporten verkrijgen?
 Log in op je Tresco Fleet account via fleet.tresco.eu met je persoonlijke login.
 Ga linksboven naar 'Admin', en dan rechtsboven naar 'Rapporten'.
 Klik dan op '+Nieuw' om een nieuw rapport aan te maken.
+
 Hoe maak ik de nachtkleuren lichter? Kleuren aanpassen. Dag en nacht. Helderheid. Schemerkleuren.
 Om de helderheid van het scherm aan te passen ga je bovenaan naar de tab 'Kleur' in de knoppenbalk. Hier kan je verschillende dag- en nachtkleuren kiezen. Je kan deze instellingen nog verder aanpassen met de slider.
-
 https://www.youtube.com/watch?v=BN_7PJJcMeY - Deze video toont een aantal tips voor het vlot gebruiken van Tresco Navigis. Onder andere het aanpassen van dag- en nachtkleuren.
+
+Als Tresco opstart met de zijbalken in donkere nachtkleuren laat je de klant ons nummer bellen of
+het volgende doen: zet Tresco in nachtkleuren, dan terug naar dag kleur. Druk op het toetsenbord op de windows knop + R en typ 'cmd', druk dan op enter.
+Typ dan taskkill /im navichart.exe /f in en druk op enter.
+Als je dan Tresco opnieuw opent moet het probleem opgelost zijn.
+
 Hoe vergroot ik de tekst op de kaart? Symbolen vergroten. Tekstgrootte aanpassen.
 Om Tekst en symbolen te vergoten of verkleinen op de kaart:
 Ga in Tresco Navigis rechtsboven naar Instellingen > Opties > Scherm.
 Hier heb je sliders om de grootte van symbolen en tekst aan te passen.
 Dit is enkel op de kaart en niet in de grijze balken aan de rand van het scherm. Deze worden aangepast in Windows instellingen.
 https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal tips getoond voor het vlotte gebruik van Tresco Navigis, waaronder het vergroten/verkleinen van tekst en symbolen op de kaart.
+
 Kan het beeld niet meer schuiven. Hoe kaart verplaatsen?
 Als men de kaart wil verschuiven ga je bovenaan in de knoppenbalk naar 'Scherm'. Daar klik je op 'Zoom in', 'Zoom uit' of 'Ga naar ...', daarna kan de kaart opnieuw verschoven worden met de muis.
 https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal Tresco Navigis functionaliteiten uitgelegd zoals bijvoorbeeld de kaart verschuiven.
+
 Muis verspringt vanzelf. Muis gaat alle kanten op. Kan muis niet gebruiken.
 Als de muis zelf verspringt en niet meer bruikbaar is:
 Haal de kabel van de GPS tijdelijk uit de computer, hierdoor zou de muis terug normaal moeten reageren.
 Ga nu in Tresco Navigis rechtsboven naar Help > Support en druk op 'Ja' of 'Nee'.
 Ga in het nieuwe venster naar Tools > Disable mouse detection... en klik in het nieuwe venster op 'Disable serial mouse'. U kan nu de GPS opnieuw aansluiten.
+
 Negatieve snelheid bij achteruit varen. Hoe zet ik een - teken voor mijn snelheid?
-Ga naar Instellingen > Systeem > NMEA
+Ga naar Instellingen > Systeem > NMEA (het wachtwoord is 0000)
 Hier kan je de optie 'Negatief bij achteruit varen' aanvinken.
+
 PC probleem. PC start niet op. Blauw scherm. De PC is kapot. Scherm werkt niet. De PC vindt geen wifi.
 Check of alle kabels goed zijn aangesloten. Probeer eventueel een andere poort.
-Start de computer opnieuw op: haal 10-20 seconden de stroom er af.
+Start de computer opnieuw op.
+Werkt het nog steeds niet: Heeft de klant de PC bij tresco gekocht? Dan contact opnemen met Tresco.
 
-Werkt het nog steeds niet: Heeft de klant een Tresco PC? Dan pas contact opnemen met Tresco.
 Tresco PC start niet meer op en geeft melding: No option to boot to.
 Om specifiek de foutmelding 'No option to boot to.' op te lossen stuur je altijd eerst deze link: https://youtu.be/-0skqzI4PoM het is een video handleiding.
-
 En geef VOLLEDIG deze uitleg:
 No Option to Boot (NL) :
 1. Open de zwarte behuizing
