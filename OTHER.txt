@@ -109,3 +109,8 @@ o Controleer of de PC opstart.
 6. Monteer alles terug
 o Als de PC opstart, monteer dan de SATA-schijf en de zwarte kap opnieuw
 
+Voor een expertiseverslag voor de verzekeringen na een aanvaring moeten we eerst met TeamViewer inloggen aan boord. 
+We kopieren dan de NMEA-logs van die dag uit het logboek en maken daar een video van.
+De klant kan ook zelf beelden opnieuw bekijken. Klik linksboven op 'logboek', dan 'NMEA Playback', klik op de blauwe play knop en 
+selecteer dan de dag die je opnieuw wil bekijken. 
+Het logboek wordt standaard 60 dagen bewaard. Je kan dit zelf aanpassen bij 'Instellingen', 'Logboek' en dan bij 'NMEA-logboek' 'Verwijder logboeken ouder dan'.
