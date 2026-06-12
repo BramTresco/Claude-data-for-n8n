@@ -242,6 +242,6 @@ Dan:
 De klant kan proberen naar Windows instellingen te gaan, dan naar 'printers en scanners'. Zet hier de optie: 'Mijn standaardprinter door Windows laten beheren' uit. Klik dan op 'Microsoft Print to PDF' en stel deze in als standaard.
 Als het probleem hiermee niet opgelost is, dan ligt het waarschijnlijk aan een trage/verouderde PC.
 
-
+Dieptepunten en dieptelijnen kan je aan- of uitzetten linksboven bij 'Kaart' en dan 'Details...'. Hier kan je alle kaartelementen kiezen die je wil tonen in de kaart. Zorg er ook voor dat de kaartmodus op 'Usr' staat.
  
 
